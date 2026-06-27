@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("skymoon")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+74aa41432cec85d6be719611c5c082f2f6a9760b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+60366eee76e40403a0764ea70200a37e17c77a31")]
 [assembly: System.Reflection.AssemblyProductAttribute("skymoon")]
 [assembly: System.Reflection.AssemblyTitleAttribute("skymoon")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
